@@ -17,3 +17,17 @@ A simple yet functional stopwatch application that allows:
 - Built with JavaScript setInterval() for timing.
 - Minimal and user-friendly UI.
 - Works seamlessly on both desktop and mobile browsers.
+---
+
+## 🛠 *Technologies Used*
+- *HTML5* – Structure and semantic markup.
+- *CSS3* – Styling, layout, and responsive design.
+- *JavaScript (ES6)* – Interactivity and DOM manipulation.
+
+---
+
+## 📱 *Responsive Design*
+All tasks are designed to adapt to various screen sizes using:
+- Media Queries
+- Flexbox
+- Mobile-first approach
